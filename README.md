@@ -1,122 +1,143 @@
-# 👋 Hi, I'm Muzaffar Ameen
+# 👋 Hi, I'm Muzafar Ameen
 
-## 🚀 Associate Software Engineer | MERN Stack Developer | Full Stack Developer
+## 🚀 Full Stack MERN Developer | AI Automation Developer
 
-I'm a **Computer Science graduate** passionate about building **full-stack web applications**, creating **responsive user interfaces**, and solving real-world problems with clean and scalable code.
+I’m a Full Stack MERN Developer focused on building scalable web applications, SaaS platforms, AI automation systems, and modern business solutions.
 
-### 💻 What I Do
-- 🌐 Build full-stack applications using the **MERN Stack**
-- ⚛️ Develop responsive frontend UIs with **React.js**
-- 🛠️ Create scalable backend APIs using **Node.js** and **Express.js**
-- 🗄️ Work with **MongoDB** and **MySQL**
-- 🤖 Build **automation & AI workflows** using **n8n**
-- 🧪 Perform **automation testing** using **Python Selenium**
+I specialize in React.js, Node.js, Express.js, MongoDB, REST APIs, responsive UI/UX, and workflow automation using n8n. I enjoy turning ideas into production-ready digital products with clean architecture and performance-focused development.
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced **MERN Stack** architecture
-- **Automation workflows** with n8n
-- **AI integrations** in web applications
-- Better **system design** and clean coding practices
+# 💻 What I Do
+
+* 🌐 Build scalable MERN Stack applications
+* ⚛️ Create modern responsive UIs with React.js
+* 🔗 Develop secure REST APIs & backend systems
+* ☁️ Build SaaS platforms & admin dashboards
+* 🤖 Create AI automation workflows using n8n
+* 📊 Develop business tools & productivity systems
+* 🚀 Deploy and optimize production-ready applications
 
 ---
 
-## 🧠 Tech Stack
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
+# 🛠 Tech Stack
 
-### Backend
-- Node.js
-- Express.js
+## Frontend
 
-### Databases
-- MongoDB
-- MySQL
+* React.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
 
-### Programming Languages
-- C++
-- Python
-- C#
+## Backend
 
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- VS Code
-- Render
-- Canva
-- Microsoft Office
+* Node.js
+* Express.js
+* REST APIs
 
----
+## Databases
 
-## 📌 Featured Projects
+* MongoDB
+* MySQL
+* Supabase
 
-### 💸 ExpenseTracker
-A full-stack expense splitting application built with the **MERN Stack**, featuring:
-- JWT Authentication
-- Google OAuth
-- Group Expense Management
-- Balance Tracking
-- Payment Settlement Flow
-- Admin Panel
+## Automation & AI
 
-### 💳 MERN Payment Application
-A secure full-stack payment and management application with:
-- User Authentication
-- Responsive UI
-- REST APIs
-- MongoDB Integration
+* n8n
+* AI Workflow Automation
+* API Integrations
 
-### 🎯 CareerQuest (Final Year Project)
-A career recommendation platform that suggests jobs based on:
-- User Skills
-- Personality Assessment
-- Career Matching
-- Responsive Dashboard
+## Programming Languages
 
-### 🤖 n8n Automation & AI Workflows
-Built automation workflows including:
-- Telegram Inventory Bot
-- AI Image/Video Generation
-- CRUD Operations
-- Email Notifications
-- Third-party API Integrations
+* JavaScript
+* TypeScript
+* Python
+* C#
+* C++
 
-### 🧪 Automation Testing with Python Selenium
-Automated testing for application flows like:
-- Login / Signup
-- Pharmacy Modules
-- Medicine Ordering
-- Assertions & Bug Detection
+## Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* VS Code
+* Netlify
+* Vercel
 
 ---
 
-## 🏆 Achievements
-- 🎓 Computer Science Graduate from **UCP Lahore**
-- 📚 Awarded **multiple academic scholarships**
-- 👨‍💻 Built and deployed multiple real-world applications
-- 🤝 Strong teamwork, mentoring, and leadership experience
+# 📌 Featured Projects
+
+## 🔐 VaultMind — MERN Stack
+
+Secure digital vault platform for passwords, private files, reminders, and sensitive information with OTP authentication.
+
+🌐 Live: https://vaultmindx.netlify.app/
 
 ---
 
-## 📫 Connect With Me
-- 🌐 **Portfolio:** [Your Portfolio Link Here](https://muzaffar-ameen-portfolio.netlify.app)
-- 💼 **LinkedIn:** [Muzaffar Ameen](https://www.linkedin.com/in/muzaffar-ameen)
-- 💻 **GitHub:** [Muzaffar-Ameen](https://github.com/Muzaffar-Ameen)
-- 📧 **Email:** muzaffarameendev@gmail.com
+## 💼 Thrive Grit — Business Website
+
+Premium business solution website focused on branding, SEO, development, and high-converting UI/UX.
+
+🌐 Live: https://thrivegrit.netlify.app/
 
 ---
 
-## ⚡ Fun Facts
-- 🏏 I enjoy playing **Cricket**
-- 🏸 Love playing **Badminton**
-- ⚽ Big fan of **Football**
-- ✍️ I also enjoy **Poetry**
+## 🤖 FreelancerReply AI
+
+AI-powered freelancer communication tool for generating professional client replies instantly.
+
+🌐 Live: https://freelanceraireply.netlify.app/
 
 ---
 
-⭐ Always open to collaborating on **MERN Stack**, **Frontend**, **Full Stack**, and **Automation** projects.
+## 🛒 Point Of Sale — .NET
+
+Production-ready POS system with inventory management, sales handling, and reporting dashboards.
+
+🌐 Live: http://sufyanalii.somee.com/POSONLINE/frmLogin
+
+---
+
+## 🤖 n8n Automation & AI Workflows
+
+Built advanced automation workflows including Telegram inventory bots, CRUD systems, AI integrations, email notifications, and third-party API automation.
+
+---
+
+# 📈 Currently Exploring
+
+* Advanced MERN Stack Architecture
+* SaaS Product Development
+* AI Integrations
+* Scalable System Design
+* Performance Optimization
+
+---
+
+# 🤝 Open To
+
+* Freelance Projects
+* Remote Opportunities
+* SaaS Development
+* MERN Stack Applications
+* Automation Systems
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio: https://muzafar-tech.netlify.app
+
+💼 LinkedIn: https://linkedin.com/in/muzafar-tech
+
+📧 Email: [muzafar.techx@gmail.com](mailto:muzafar.techx@gmail.com)
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building modern digital products, exploring automation systems, and continuously learning new technologies to solve real-world problems.
