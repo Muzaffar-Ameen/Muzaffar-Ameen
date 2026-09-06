@@ -293,7 +293,7 @@ Worked on MERN Stack applications, responsive frontend interfaces, feature devel
 # 📫 Connect With Me
 
 🌐 **Portfolio:**  
-https://muzaffar-ameen-portfolio.netlify.app/
+https://muzaffareng.netlify.app/
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/muzaffar-ameen-fullstack
